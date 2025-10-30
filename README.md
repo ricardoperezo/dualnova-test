@@ -1,4 +1,4 @@
-# Coaching Impact Command Center
+# Coaching Impact Command Center (V1)
 
 Dashboard de análisis y métricas de coaching en tiempo real.
 
